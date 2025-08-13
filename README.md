@@ -15,7 +15,7 @@ Want to customize it further with tools, certifications (like CompTIA Security+)
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC). As an entry-level SOC Analyst with CompTIA Security+, passionate about detecting, analyzing, and mitigating cyber threats to safeguard digital assets.
 
 ## Skills 
 
