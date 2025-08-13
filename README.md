@@ -9,23 +9,20 @@ I’m an entry-level Cybersecurity Analyst with hands-on experience in identifyi
  Feel free to explore my repositories for cybersecurity projects, scripts, and write-ups that showcase my growing skills and passion for the field.
 
 ---
-
-Want to customize it further with tools, certifications (like CompTIA Security+), or specific interests (e.g., SOC operations, blue teaming)? Just let me know!
-
-
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC). As an entry-level SOC Analyst with CompTIA Security+, passionate about detecting, analyzing, and mitigating cyber threats to safeguard digital assets.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC). As an entry-level SOC Analyst with CompTIA Security+, I'm passionate about detecting, analyzing, and mitigating cyber threats to safeguard digital assets.
 
+---
 ## Skills 
 
-| Skill Aquired                                 | Project  Developed        |
+| Skill Aquired                                 | Project  Developed         |
 |-----------------------------------------------|----------------------------|
 | Develop a Brute force detection Application   | <a href="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit">Brute-Force-Detection- Application </a>|
 |Implement SIEM log analysis with Splunk        | <a href="https://github.com/luxmundi27/Splunk-SIEM-Project">Splunk-SIEM Project </a>|
 | Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
 | Keylogger-Detection                           |  <a href="https://github.com/luxmundi27/Keylogger-Detection">Keylogger-Detection</a>|
-| Microsoft-Sentinel EDR                        | <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>|
+| Microsoft-Sentinel EDR                        |  <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>|
 | Phishing Dectetor                             | <a href="https://github.com/luxmundi27/Phishing-Detector">Phishing Dectetor </a>|
 | Vulnerabilty Assessment                       | <a href="https://github.com/luxmundi27/Vulnerability-Lab"> Vulnerabilty Assessment </a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -88,3 +85,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit">Brute-Force-Detection-  Application </a>
 - <a href="https://github.com/luxmundi27/Splunk-SIEM-Project">Splunk-SIEM Project </a>
+- <a href="https://github.com/luxmundi27/Keylogger-Detection">Keylogger-Detection</a>
+- <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>
+- <a href="https://github.com/luxmundi27/Phishing-Detector">Phishing Dectetor </a>
+- <a href="https://github.com/luxmundi27/Vulnerability-Lab"> Vulnerabilty Assessment </a>
