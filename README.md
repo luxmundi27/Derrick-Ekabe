@@ -4,7 +4,7 @@
 
 I’m an entry-level Cybersecurity Analyst with hands-on experience in identifying vulnerabilities, analyzing threats, and supporting secure system operations. I have worked on real-world labs and projects that have helped me build a strong foundation in areas like network security, incident response, and security monitoring.
 
- I enjoy learning by doing investigating simulated attacks to working with Network tools, EDR tools, SIEM/SOAR tools and vulnerability management tools.
+ I enjoy learning by doing investigating simulated attacks to working with Network tools, EDR tools, SIEM/SOAR tools and Vulnerability Management tools.
 
  Feel free to explore my repositories for cybersecurity projects, scripts, and write-ups that showcase my growing skills and passion for the field.
 
