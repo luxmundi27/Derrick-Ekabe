@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Keylogger-Detection                           |  <a href="https://github.com/luxmundi27/Keylogger-Detection">Keylogger-Detection</a>|
 | Microsoft-Sentinel EDR                        | <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>|
 | Phishing Dectetor                             | <a href="https://github.com/luxmundi27/Phishing-Detector">Phishing Dectetor </a>|
-| Vulnerabilty Lab                              | <a href="https://github.com/luxmundi27/Vulnerability-Lab"> Vulnerabilty Lab </a>|
+| Vulnerabilty Assessment                       | <a href="https://github.com/luxmundi27/Vulnerability-Lab"> Vulnerabilty Assessment </a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|  https://github.com/luxmundi27/Vulnerability-Lab)
