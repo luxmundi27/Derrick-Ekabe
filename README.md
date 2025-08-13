@@ -2,7 +2,16 @@
 
 <a href="https://www.linkedin.com/in/derrickekabe"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m an entry-level Cybersecurity Analyst with hands-on experience in identifying vulnerabilities, analyzing threats, and supporting secure system operations. I have worked on real-world labs and projects that have helped me build a strong foundation in areas like network security, incident response, and security monitoring.
+
+ I enjoy learning by doing investigating simulated attacks to working with Network tools, EDR tools, SIEM/SOAR tools and vulnerability management tools.
+
+ Feel free to explore my repositories for cybersecurity projects, scripts, and write-ups that showcase my growing skills and passion for the field.
+
+---
+
+Want to customize it further with tools, certifications (like CompTIA Security+), or specific interests (e.g., SOC operations, blue teaming)? Just let me know!
+
 
 ## Objective
 
