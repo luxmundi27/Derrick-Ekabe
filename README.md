@@ -12,11 +12,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill Aquired                                 | Project  Developed        |
 |-----------------------------------------------|----------------------------|
-| Develop a Brute force detection Application   | <a href="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit">Brute-Force-Detection-  Application </a>|
+| Develop a Brute force detection Application   | <a href="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit">Brute-Force-Detection- Application </a>|
 |Implement SIEM log analysis with Splunk        | <a href="https://github.com/luxmundi27/Splunk-SIEM-Project">Splunk-SIEM Project </a>|
 | Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
 | Keylogger-Detection                           |  <a href="https://github.com/luxmundi27/Keylogger-Detection">Keylogger-Detection</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Microsoft-Sentinel EDR                        | <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
