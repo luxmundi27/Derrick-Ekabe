@@ -88,3 +88,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>
 - <a href="https://github.com/luxmundi27/Phishing-Detector">Phishing Dectetor </a>
 - <a href="https://github.com/luxmundi27/Vulnerability-Lab"> Vulnerabilty Assessment </a>
+
+## Education
+Masters in Communication.
