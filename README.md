@@ -92,4 +92,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Education
 Masters in Communication.
 
-PHD in Apply Pyschology
