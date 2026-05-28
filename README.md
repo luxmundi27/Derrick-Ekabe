@@ -73,6 +73,9 @@ I am particularly interested in cloud-native security, identity and access manag
 
 ### CLOUD TECHNOLOGY
 <div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GCP-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 
 </div>
