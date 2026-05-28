@@ -37,6 +37,15 @@ I am particularly interested in cloud-native security, identity and access manag
 
 
 ## Tools 
+### VULNERABILITY MANAGEMENT TOOLS
+<div>
+    <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=grafana&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Prowler-2E7D32?&style=for-the-badge&logo=hackthebox&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=sonarqube&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Nessus-005FAD?&style=for-the-badge&logo=Tenable&logoColor=white" />
+   <img src="https://img.shields.io/badge/-OpenVAS-6AA84F?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+
+   </div>
 
 ### Network Tools
 <div>
@@ -62,16 +71,6 @@ I am particularly interested in cloud-native security, identity and access manag
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### VULNERABILITY MANAGEMENT TOOLS
-<div>
-    <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=grafana&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Prowler-2E7D32?&style=for-the-badge&logo=hackthebox&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=sonarqube&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Nessus-005FAD?&style=for-the-badge&logo=Tenable&logoColor=white" />
-   <img src="https://img.shields.io/badge/-OpenVAS-6AA84F?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
-
 </div>
 
 ### CLOUD TECHNOLOGY
