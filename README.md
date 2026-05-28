@@ -35,8 +35,7 @@ I am particularly interested in cloud-native security, identity and access manag
 | Microsoft-Sentinel EDR                        |  <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>|
 | Phishing Dectetor                             | <a href="https://github.com/luxmundi27/Phishing-Detector">Phishing Dectetor </a>|
 | Vulnerabilty Assessment                       | <a href="https://github.com/luxmundi27/Vulnerability-Lab"> Vulnerabilty Assessment </a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab| https://github.com/luxmundi27/USING-PROWLER-AND-SONARQUBE-SCANNING-CODE-AND-VULNERABILITY-IN-CLOUD
+
 
 ## Tools 
 
