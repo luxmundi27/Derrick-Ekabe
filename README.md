@@ -30,7 +30,6 @@ I am particularly interested in cloud-native security, identity and access manag
 | Security-Operations-Center-SOC-Projects-">Security Operations Center (SOC) Projects     |   <a href="https://github.com/luxmundi27/Security-Operations-Center-SOC-Projects-">Security Operations Center (SOC) Projects</a>
 | Develop a Brute force detection Application   | <a href="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit">Brute-Force-Detection- Application </a>|
 |Implement SIEM log analysis with Splunk        | <a href="https://github.com/luxmundi27/Splunk-SIEM-Project">Splunk-SIEM Project </a>|
-| Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
 | Keylogger-Detection                           |  <a href="https://github.com/luxmundi27/Keylogger-Detection">Keylogger-Detection</a>|
 | Microsoft-Sentinel EDR                        |  <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>|
 | Phishing Dectetor                             | <a href="https://github.com/luxmundi27/Phishing-Detector">Phishing Dectetor </a>|
