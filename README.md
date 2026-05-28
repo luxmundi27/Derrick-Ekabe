@@ -24,6 +24,7 @@ I am particularly interested in cloud-native security, identity and access manag
 
 | Skill Aquired                                 | Project  Developed         |
 |-----------------------------------------------|----------------------------|
+|USING-PROWLER-AND-SONARQUBE-SCANNING-CODE-AND-VULNERABILITY-IN-CLOUD | <a href="https://github.com/luxmundi27/USING-PROWLER-AND-SONARQUBE-SCANNING-CODE-AND-VULNERABILITY-IN-CLOUD </a>|
 | Develop a Brute force detection Application   | <a href="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit">Brute-Force-Detection- Application </a>|
 |Implement SIEM log analysis with Splunk        | <a href="https://github.com/luxmundi27/Splunk-SIEM-Project">Splunk-SIEM Project </a>|
 | Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
@@ -32,7 +33,7 @@ I am particularly interested in cloud-native security, identity and access manag
 | Phishing Dectetor                             | <a href="https://github.com/luxmundi27/Phishing-Detector">Phishing Dectetor </a>|
 | Vulnerabilty Assessment                       | <a href="https://github.com/luxmundi27/Vulnerability-Lab"> Vulnerabilty Assessment </a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab| 
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| https://github.com/luxmundi27/USING-PROWLER-AND-SONARQUBE-SCANNING-CODE-AND-VULNERABILITY-IN-CLOUD
 
 ## Tools 
 
