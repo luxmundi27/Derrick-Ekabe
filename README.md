@@ -110,8 +110,7 @@ I am particularly interested in cloud-native security, identity and access manag
 - <a href="https://github.com/luxmundi27/Keylogger-Detection">Keylogger-Detection</a>
 - <a href="https://github.com/luxmundi27/Microsoft-Sentinel-EDR">Microsoft-Sentinel-EDR</a>
 - <a href="https://github.com/luxmundi27/Phishing-Detector">Phishing Dectetor </a>
-- <a href="https://github.com/luxmundi27/Vulnerability-Lab"> Vulnerabilty Assessment </a>
-https://github.com/luxmundi27/USING-PROWLER-AND-SONARQUBE-SCANNING-CODE-AND-VULNERABILITY-IN-CLOUD
+
 
 ## Education
 Masters in Communication.
