@@ -28,7 +28,6 @@ I am particularly interested in cloud-native security, identity and access manag
 | CREATE-AND-ENABLE-IAM-USER-AND-MFA-IN--AWS-AZURE-GCP.-Configure-a-Secure-AWS-VPC-and-Deploy-WAF | <a href="https://github.com/luxmundi27/CREATE-AND-ENABLE-IAM-USER-AND-MFA-IN--AWS- AZURE-GCP.-Configure-a-Secure-AWS-VPC-and-Deploy-WAF">CREATE AND ENABLE IAM USER AND MFA IN AWS, AZURE, GCP. Configure a Secure AWS VPC and Deploy WAF</a>
 | Automate-CI-CD-with-GitHub-Actions-and-AWS-CodePipeline">Automate CI/CD with GitHub Actions and AWS CodePipeline |   <a href="https://github.com/luxmundi27/Automate-CI-CD-with-GitHub-Actions-and-AWS-CodePipeline">Automate CI/CD with GitHub Actions and AWS CodePipeline</a>
 | Security-Operations-Center-SOC-Projects-">Security Operations Center (SOC) Projects     |   <a href="https://github.com/luxmundi27/Security-Operations-Center-SOC-Projects-">Security Operations Center (SOC) Projects</a>
-
 | Develop a Brute force detection Application   | <a href="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit">Brute-Force-Detection- Application </a>|
 |Implement SIEM log analysis with Splunk        | <a href="https://github.com/luxmundi27/Splunk-SIEM-Project">Splunk-SIEM Project </a>|
 | Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
