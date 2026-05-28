@@ -91,6 +91,7 @@ I am particularly interested in cloud-native security, identity and access manag
 ## Certifications
 
 <div>
+ <img src="https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20Associate-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
