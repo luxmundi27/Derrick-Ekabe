@@ -90,7 +90,8 @@ I am particularly interested in cloud-native security, identity and access manag
 
 ## Projects
 
-- USING-PROWLER-AND-SONARQUBE-SCANNING-CODE-AND-VULNERABILITY-IN-CLOUD </a>
+- <a href="https://github.com/luxmundi27/USING-PROWLER-AND-SONARQUBE-SCANNING-CODE-AND-VULNERABILITY-IN-CLOUD">
+  USING PROWLER AND SONARQUBE SCANNING CODE AND VULNERABILITY IN CLOUD </a>
 - <a href="https://github.com/luxmundi27/Splunk-SIEM-Project">Splunk-SIEM Project </a>
 - <a href="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit">Brute-Force-Detection-  Application </a>
 - <a href="https://github.com/luxmundi27/Splunk-SIEM-Project">Splunk-SIEM Project </a>
