@@ -2,16 +2,22 @@
 
 <a href="https://www.linkedin.com/in/derrickekabe"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A result driven Cybersecurity Analyst with hands-on experience in identifying vulnerabilities, analyzing threats, and supporting secure system operations. I have worked on real-world labs and projects that have helped me build a strong foundation in areas like network security, incident response, and security monitoring.
+A result-driven Cloud Security and Cybersecurity Analyst with hands-on experience in identifying vulnerabilities, analyzing threats, and supporting secure cloud and system operations. I have worked on real-world labs and projects that helped me build a strong foundation in cloud security, network security, IAM, incident response, and security monitoring.
 
- I enjoy learning by doing investigating simulated attacks to working with Network tools, EDR tools, SIEM/SOAR tools and Vulnerability Management tools.
+I enjoy learning by doing—from investigating simulated attacks to working with Network tools, EDR tools, SIEM/SOAR tools, and vulnerability management tools in cloud and enterprise environments.
 
- Feel free to explore my repositories for cybersecurity projects, scripts, and write-ups that showcase my growing skills and passion for the field.
+I have also gained practical experience in cloud security labs involving IAM, MFA, Conditional Access, WAF deployment, CI/CD security integration, and vulnerability scanning across platforms such as AWS, Azure, and Google Cloud.
+
+Feel free to explore my repositories for cybersecurity and cloud security projects, scripts, and write-ups that showcase my growing skills and passion for the field.
 
 ---
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC). As an entry-level SOC Analyst with CompTIA Security+, I'm passionate about detecting, analyzing, and mitigating cyber threats to safeguard digital assets.
+My journey in computer science has led me to develop a strong passion for cloud security and cybersecurity, and I am now focused on building a career in this space, specifically aiming to join a Cloud Security team or Security Operations Center (SOC) with a strong emphasis on cloud environments.
+
+As an entry-level SOC Analyst with CompTIA Security+ knowledge and an AWS Certified Solutions Architect – Associate certification, I am passionate about securing cloud infrastructure, detecting and responding to security threats, and implementing best practices for protecting cloud-based systems and data.
+
+I am particularly interested in cloud-native security, identity and access management, and monitoring cloud environments to ensure resilience, compliance, and strong security posture across modern enterprise infrastructures.
 
 ---
 ## Skills 
