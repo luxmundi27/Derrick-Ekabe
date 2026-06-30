@@ -112,5 +112,5 @@ I am particularly interested in cloud-native security, identity and access manag
 
 
 ## Education
-Masters in Communication.
+
 
